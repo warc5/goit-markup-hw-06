@@ -684,6 +684,7 @@ border-radius: 4px;
         color: var(--dark);
         margin-left: auto;
         margin-right: auto;
+        margin-bottom: 16px;
 }
 
 .modal-field {
@@ -722,7 +723,7 @@ border-radius: 4px;
       top: 50%;
       left: 16px;
       transform: translateY(-50%);
-      transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);;
+      transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
 
   }
 
